@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+*.env
+
+# Sensitive Files
+credentials.json
+*.pem
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Output folders
+screenshots/

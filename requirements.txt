@@ -1,0 +1,12 @@
+opencv-python
+numpy
+PyAutoGUI
+keyboard
+pywin32
+requests
+Pillow
+ultralytics
+google-api-python-client
+google-auth
+google-auth-oauthlib
+python-dotenv
