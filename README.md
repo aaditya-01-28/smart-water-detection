@@ -19,7 +19,7 @@ This project uses a YOLOv8 model to monitor CCTV camera feeds in real-time, dete
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/smart-water-detection.git](https://github.com/your-username/smart-water-detection.git)
+    git clone https://github.com/aaditya-01-28/smart-water-detection
     cd smart-water-detection
     ```
 
